@@ -1,0 +1,10 @@
+<map id="ram/UserDefinedOperator.h" name="ram/UserDefinedOperator.h">
+<area shape="rect" id="node2" href="$_type_attribute_8h.html" title="TypeAttribute.h" alt="" coords="43,155,165,181"/>
+<area shape="rect" id="node4" href="$_abstract_operator_8h.html" title="ram/AbstractOperator.h" alt="" coords="709,80,883,107"/>
+<area shape="rect" id="node5" href="$_expression_8h.html" title="ram/Expression.h" alt="" coords="522,155,657,181"/>
+<area shape="rect" id="node6" href="$ram_2_node_8h.html" title="ram/Node.h" alt="" coords="540,229,639,256"/>
+<area shape="rect" id="node21" href="$_stream_util_8h.html" title="utility/StreamUtil.h" alt="" coords="1331,304,1477,331"/>
+<area shape="rect" id="node8" href="$ram_2_node_mapper_8h.html" title="ram/NodeMapper.h" alt="" coords="249,379,394,405"/>
+<area shape="rect" id="node15" href="$_container_util_8h.html" title="utility/ContainerUtil.h" alt="" coords="1143,304,1305,331"/>
+<area shape="rect" id="node7" href="$ram_2_lambda_node_mapper_8h.html" title="ram/LambdaNodeMapper.h" alt="" coords="460,304,657,331"/>
+</map>

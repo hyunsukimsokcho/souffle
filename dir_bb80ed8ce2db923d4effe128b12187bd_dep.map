@@ -1,0 +1,8 @@
+<map id="synthesiser" name="synthesiser">
+<area shape="rect" id="node1" href="dir_bb80ed8ce2db923d4effe128b12187bd.html" title="synthesiser" alt="" coords="29,5,126,53"/>
+<area shape="rect" id="node2" href="dir_8f932278bce3825e165d4d2e4bc3cd17.html" title="ram" alt="" coords="5,101,77,149"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000011_000002.html" title="14" alt="" coords="56,79,73,94"/>
+<area shape="rect" id="node3" href="dir_64e73385a8b7738563c26ce10415b58d.html" title="utility" alt="" coords="41,197,113,245"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000011_000013.html" title="6" alt="" coords="89,173,99,188"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000002_000013.html" title="127" alt="" coords="57,170,82,184"/>
+</map>

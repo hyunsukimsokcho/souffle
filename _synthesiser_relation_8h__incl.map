@@ -1,0 +1,13 @@
+<map id="synthesiser/SynthesiserRelation.h" name="synthesiser/SynthesiserRelation.h">
+<area shape="rect" id="node2" href="$ram_2_relation_8h.html" title="ram/Relation.h" alt="" coords="812,155,929,181"/>
+<area shape="rect" id="node28" href="$_index_analysis_8h.html" title="ram/analysis/IndexAnalysis.h" alt="" coords="1408,80,1621,107"/>
+<area shape="rect" id="node3" href="$_relation_tag_8h.html" title="RelationTag.h" alt="" coords="908,229,1017,256"/>
+<area shape="rect" id="node16" href="$ram_2_node_8h.html" title="ram/Node.h" alt="" coords="693,229,792,256"/>
+<area shape="rect" id="node22" href="$_container_util_8h.html" title="utility/ContainerUtil.h" alt="" coords="831,304,993,331"/>
+<area shape="rect" id="node4" href="$_misc_util_8h.html" title="utility/MiscUtil.h" alt="" coords="1599,304,1727,331"/>
+<area shape="rect" id="node5" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="1610,379,1713,405"/>
+<area shape="rect" id="node17" href="$ram_2_lambda_node_mapper_8h.html" title="ram/LambdaNodeMapper.h" alt="" coords="508,304,705,331"/>
+<area shape="rect" id="node18" href="$ram_2_node_mapper_8h.html" title="ram/NodeMapper.h" alt="" coords="458,379,603,405"/>
+<area shape="rect" id="node29" href="$_global_8h.html" title="Global.h" alt="" coords="1802,304,1878,331"/>
+<area shape="rect" id="node30" href="$ram_2analysis_2_analysis_8h.html" title="ram/analysis/Analysis.h" alt="" coords="2157,379,2334,405"/>
+</map>

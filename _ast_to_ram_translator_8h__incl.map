@@ -1,0 +1,35 @@
+<map id="AstToRamTranslator.h" name="AstToRamTranslator.h">
+<area shape="rect" id="node2" href="$_ram_types_8h.html" title="RamTypes.h" alt="" coords="69,528,171,555"/>
+<area shape="rect" id="node8" href="$_symbol_table_8h.html" title="SymbolTable.h" alt="" coords="1312,453,1429,480"/>
+<area shape="rect" id="node9" href="$_misc_util_8h.html" title="utility/MiscUtil.h" alt="" coords="1913,528,2041,555"/>
+<area shape="rect" id="node14" href="$_stream_util_8h.html" title="utility/StreamUtil.h" alt="" coords="2719,528,2865,555"/>
+<area shape="rect" id="node21" href="$_argument_8h.html" title="ast/Argument.h" alt="" coords="4829,453,4952,480"/>
+<area shape="rect" id="node22" href="$ast_2_node_8h.html" title="ast/Node.h" alt="" coords="4570,528,4662,555"/>
+<area shape="rect" id="node23" href="$_atom_8h.html" title="ast/Atom.h" alt="" coords="3863,379,3956,405"/>
+<area shape="rect" id="node24" href="$_literal_8h.html" title="ast/Literal.h" alt="" coords="4453,453,4552,480"/>
+<area shape="rect" id="node25" href="$_qualified_name_8h.html" title="ast/QualifiedName.h" alt="" coords="2755,453,2909,480"/>
+<area shape="rect" id="node27" href="$_clause_8h.html" title="ast/Clause.h" alt="" coords="3503,304,3606,331"/>
+<area shape="rect" id="node28" href="$ast_2_constant_8h.html" title="ast/Constant.h" alt="" coords="5529,379,5645,405"/>
+<area shape="rect" id="node29" href="$_nil_constant_8h.html" title="ast/NilConstant.h" alt="" coords="5395,304,5530,331"/>
+<area shape="rect" id="node30" href="$_numeric_constant_8h.html" title="ast/NumericConstant.h" alt="" coords="4877,304,5048,331"/>
+<area shape="rect" id="node32" href="$ast_2_program_8h.html" title="ast/Program.h" alt="" coords="3143,229,3257,256"/>
+<area shape="rect" id="node33" href="$ast_2_relation_8h.html" title="ast/Relation.h" alt="" coords="3145,379,3255,405"/>
+<area shape="rect" id="node34" href="$_record_init_8h.html" title="ast/RecordInit.h" alt="" coords="5077,453,5200,480"/>
+<area shape="rect" id="node35" href="$_string_constant_8h.html" title="ast/StringConstant.h" alt="" coords="5656,304,5811,331"/>
+<area shape="rect" id="node36" href="$ast_2_translation_unit_8h.html" title="ast/TranslationUnit.h" alt="" coords="3631,155,3787,181"/>
+<area shape="rect" id="node37" href="$_variable_8h.html" title="ast/Variable.h" alt="" coords="5037,379,5147,405"/>
+<area shape="rect" id="node38" href="$_aux_arity_8h.html" title="ast/analysis/AuxArity.h" alt="" coords="3964,80,4135,107"/>
+<area shape="rect" id="node39" href="$_recursive_clauses_8h.html" title="ast/analysis/RecursiveClauses.h" alt="" coords="347,528,578,555"/>
+<area shape="rect" id="node40" href="$_type_system_8h.html" title="ast/analysis/TypeSystem.h" alt="" coords="1496,379,1691,405"/>
+<area shape="rect" id="node41" href="$_functional_util_8h.html" title="utility/FunctionalUtil.h" alt="" coords="1957,453,2123,480"/>
+<area shape="rect" id="node42" href="$json11_8h.html" title="json11.h" alt="" coords="907,528,984,555"/>
+<area shape="rect" id="node43" href="$_condition_8h.html" title="ram/Condition.h" alt="" coords="6310,80,6437,107"/>
+<area shape="rect" id="node44" href="$_expression_8h.html" title="ram/Expression.h" alt="" coords="6033,155,6167,181"/>
+<area shape="rect" id="node45" href="$_operation_8h.html" title="ram/Operation.h" alt="" coords="6461,80,6589,107"/>
+<area shape="rect" id="node46" href="$ram_2_relation_8h.html" title="ram/Relation.h" alt="" coords="3744,528,3861,555"/>
+<area shape="rect" id="node47" href="$_statement_8h.html" title="ram/Statement.h" alt="" coords="5833,528,5965,555"/>
+<area shape="rect" id="node48" href="$ram_2_translation_unit_8h.html" title="ram/TranslationUnit.h" alt="" coords="1016,379,1179,405"/>
+<area shape="rect" id="node49" href="$_tuple_element_8h.html" title="ram/TupleElement.h" alt="" coords="6083,80,6235,107"/>
+<area shape="rect" id="node50" href="$_string_util_8h.html" title="utility/StringUtil.h" alt="" coords="339,453,477,480"/>
+<area shape="rect" id="node13" href="$_parallel_util_8h.html" title="utility/ParallelUtil.h" alt="" coords="1464,528,1611,555"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="souffle::TypeAnalysis::run" name="souffle::TypeAnalysis::run">
+<area shape="rect" id="node2" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="485,111,648,137"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a491c33a21cc2fe76c11b849f481f1d05" title="souffle::createAnnotated\lClause" alt="" coords="247,45,429,86"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_translation_unit.html#af396e44c83e5ad410c9ec3e2f6b91758" title="get analysis: analysis is generated on the fly if not present " alt="" coords="241,162,435,203"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_program.html#aa04b430e385f40c6fe2bf7ad2ca31bb3" title="Return clauses. " alt="" coords="263,227,413,269"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="Return the program. " alt="" coords="241,293,435,334"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="512,5,621,32"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="483,56,651,83"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="699,49,867,90"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="915,49,1105,90"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_debug_report.html#ac0feb8780d23c2ca5d7700e4857b10c4" title="souffle::DebugReport\l::addSection" alt="" coords="487,162,646,203"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="493,235,640,261"/>
+</map>

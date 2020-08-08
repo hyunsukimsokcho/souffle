@@ -1,0 +1,14 @@
+<map id="souffle::AstToRamTranslator::ClauseTranslator" name="souffle::AstToRamTranslator::ClauseTranslator">
+<area shape="rect" id="node2" href="$classsouffle_1_1_auxiliary_arity.html" title="Determine the auxiliary arity for relations. " alt="" coords="735,1351,897,1487"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ast_to_ram_translator.html" title="Main class for AST Translator. " alt="" coords="989,1637,1254,1905"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_analysis.html" title="Abstract class for a AST Analysis. " alt="" coords="327,939,478,1075"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_program.html" title="The program class consists of relations, clauses and types. " alt="" coords="861,844,1093,1171"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_node.html" title="Abstract class for syntactic elements in an input program. " alt="" coords="341,543,483,781"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_src_location.html" title="A class describing a range in an input file. " alt="" coords="281,359,431,480"/>
+<area shape="rect" id="node10" href="$structsouffle_1_1_src_location_1_1_point.html" title="A class locating a single point in an input file. " alt="" coords="281,160,431,281"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1_symbol_table.html" title="Global pool of re&#45;usable strings. " alt="" coords="1211,1292,1379,1545"/>
+<area shape="rect" id="node26" href="$structsouffle_1_1_lock.html" title="A small utility class for implementing simple locks. " alt="" coords="1117,947,1221,1068"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_type_environment.html" title="A type environment is a set of types. " alt="" coords="1403,1263,1621,1575"/>
+<area shape="rect" id="node29" href="$structsouffle_1_1_type_set.html" title="A collection to represent sets of types. " alt="" coords="2227,888,2352,1127"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1_ast_to_ram_translator_1_1_value_index.html" title="A class indexing the location of variables and record references within a loop nest resulting from th..." alt="" coords="1811,1637,2013,1905"/>
+</map>

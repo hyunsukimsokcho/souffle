@@ -1,0 +1,6 @@
+<map id="souffle::removeRelationIOs" name="souffle::removeRelationIOs">
+<area shape="rect" id="node2" href="$namespacesouffle.html#ab071e2356802d2c83ede10833a2aa413" title="souffle::getIOs" alt="" coords="269,13,385,39"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_program.html#a79383827fb9e35c1bdc07f3503ba3f97" title="Remove an I/O directive. " alt="" coords="252,64,403,105"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_program.html#a30121078c8c847e227f351e1e495f677" title="Retrun I/O directives. " alt="" coords="451,5,601,47"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="649,13,796,39"/>
+</map>

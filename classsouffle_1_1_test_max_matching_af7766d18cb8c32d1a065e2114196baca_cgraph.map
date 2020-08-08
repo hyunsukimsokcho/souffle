@@ -1,0 +1,8 @@
+<map id="souffle::TestMaxMatching::TestMaxMatching" name="souffle::TestMaxMatching::TestMaxMatching">
+<area shape="rect" id="node2" href="$classsouffle_1_1_max_matching.html#a56052140a19ae4c91f9ca56128a04730" title="add an edge to the bi&#45;partite graph " alt="" coords="240,5,400,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_max_matching.html#ab3c0a165f9409b73df7bbe5ee21922df" title="get number of matches in the solution " alt="" coords="240,71,400,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_max_matching.html#a4cd24259875831e6d3f82aaa3840a4ab" title="solve the maximum matching problem " alt="" coords="240,136,400,177"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a9f6da004bfdecc9200584d4895498122" title="souffle::TEST" alt="" coords="267,202,373,229"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="473,173,576,199"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_sparse_array.html#a92cdadaddec7130dc7c7d0fc4bbb7239" title="Updates the value stored in cell i by the given value. " alt="" coords="448,224,601,265"/>
+</map>

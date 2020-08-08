@@ -1,0 +1,8 @@
+<map id="souffle::NodeGenerator" name="souffle::NodeGenerator">
+<area shape="rect" id="node2" href="$structsouffle_1_1_ram_visitor.html" title="{souffle::RamVisitor\l\&lt; std::unique_ptr\&lt; Interpreter\lNode \&gt; \&gt;\n||+ operator()()\l+ operator()()\l+ visit()\l+ visit()\l+ ~RamVisitor()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\l# LINK()\land 58 more...\l}" alt="" coords="5,403,224,729"/>
+<area shape="rect" id="node3" href="$structsouffle_1_1ram__visitor__tag.html" title="A tag type required for the is_ram_visitor type trait to identify RamVisitors. " alt="" coords="27,204,203,281"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_index_analysis.html" title="{souffle::RamIndexAnalysis\n||+ getIndexes()\l+ getIndexes()\l+ getSearchSignature()\l+ getSearchSignature()\l+ getSearchSignature()\l+ getSearchSignature()\l+ isTotalSignature()\l+ print()\l+ RamIndexAnalysis()\l+ run()\l}" alt="" coords="663,461,857,671"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ram_analysis.html" title="Abstract class for a RAM Analysis. " alt="" coords="457,175,615,311"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ram_program.html" title="RAM program relation declaration and functions. " alt="" coords="1082,454,1241,678"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ram_node.html" title="RamNode is a superclass for all RAM IR classes. " alt="" coords="915,145,1058,340"/>
+</map>

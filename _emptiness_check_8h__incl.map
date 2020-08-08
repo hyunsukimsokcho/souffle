@@ -1,0 +1,11 @@
+<map id="ram/EmptinessCheck.h" name="ram/EmptinessCheck.h">
+<area shape="rect" id="node2" href="$_condition_8h.html" title="ram/Condition.h" alt="" coords="627,80,754,107"/>
+<area shape="rect" id="node5" href="$ram_2_node_mapper_8h.html" title="ram/NodeMapper.h" alt="" coords="145,304,290,331"/>
+<area shape="rect" id="node13" href="$ram_2_relation_8h.html" title="ram/Relation.h" alt="" coords="1097,80,1215,107"/>
+<area shape="rect" id="node15" href="$_misc_util_8h.html" title="utility/MiscUtil.h" alt="" coords="880,229,1008,256"/>
+<area shape="rect" id="node23" href="$_container_util_8h.html" title="utility/ContainerUtil.h" alt="" coords="1437,229,1600,256"/>
+<area shape="rect" id="node3" href="$ram_2_node_8h.html" title="ram/Node.h" alt="" coords="641,155,740,181"/>
+<area shape="rect" id="node4" href="$ram_2_lambda_node_mapper_8h.html" title="ram/LambdaNodeMapper.h" alt="" coords="456,229,653,256"/>
+<area shape="rect" id="node14" href="$_relation_tag_8h.html" title="RelationTag.h" alt="" coords="1101,155,1211,181"/>
+<area shape="rect" id="node16" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="1439,304,1542,331"/>
+</map>

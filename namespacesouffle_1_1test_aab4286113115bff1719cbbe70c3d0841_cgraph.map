@@ -1,0 +1,7 @@
+<map id="souffle::test::TEST" name="souffle::test::TEST">
+<area shape="rect" id="node2" href="$namespacesouffle_1_1test.html#ace3534a615fcb7abc5c57be871d5d9a2" title="Evaluate a single argument expression. " alt="" coords="192,5,367,32"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#aa3bd1d83dcab901258167a7892db39be" title="In C++20 there will be a new way to cast between types by reinterpreting bits (std::bit_cast), but as of January 2020 it is not yet supported. " alt="" coords="206,56,353,83"/>
+<area shape="rect" id="node3" href="$namespacesouffle_1_1test.html#a34498fbbda7548f52ed8be45d782666a" title="souffle::test::evalMultiArg" alt="" coords="415,5,604,32"/>
+<area shape="rect" id="node4" href="$namespacesouffle_1_1test.html#a506cf073701340d55c29d3bbdc41f2f5" title="Function to evaluate a single RamExpression. " alt="" coords="652,5,859,32"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="907,5,1069,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ast/analysis/TypeEnvironment.h" name="ast/analysis/TypeEnvironment.h">
+<area shape="rect" id="node2" href="$_qualified_name_8h.html" title="ast/QualifiedName.h" alt="" coords="556,155,711,181"/>
+<area shape="rect" id="node14" href="$ast_2analysis_2_analysis_8h.html" title="ast/analysis/Analysis.h" alt="" coords="57,229,228,256"/>
+<area shape="rect" id="node15" href="$_type_system_8h.html" title="ast/analysis/TypeSystem.h" alt="" coords="868,80,1063,107"/>
+<area shape="rect" id="node18" href="$_container_util_8h.html" title="utility/ContainerUtil.h" alt="" coords="777,229,940,256"/>
+<area shape="rect" id="node3" href="$_stream_util_8h.html" title="utility/StreamUtil.h" alt="" coords="505,229,652,256"/>
+<area shape="rect" id="node16" href="$_type_attribute_8h.html" title="TypeAttribute.h" alt="" coords="1919,155,2041,181"/>
+<area shape="rect" id="node21" href="$_functional_util_8h.html" title="utility/FunctionalUtil.h" alt="" coords="1015,229,1180,256"/>
+<area shape="rect" id="node22" href="$_misc_util_8h.html" title="utility/MiscUtil.h" alt="" coords="1356,155,1484,181"/>
+<area shape="rect" id="node23" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="1589,229,1691,256"/>
+</map>

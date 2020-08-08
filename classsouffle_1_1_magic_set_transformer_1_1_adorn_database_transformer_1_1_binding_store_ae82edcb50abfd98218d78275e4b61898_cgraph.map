@@ -1,0 +1,8 @@
+<map id="souffle::MagicSetTransformer::AdornDatabaseTransformer::BindingStore::generateBindingDependencies" name="souffle::MagicSetTransformer::AdornDatabaseTransformer::BindingStore::generateBindingDependencies">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_binary_constraint.html#a72b9e10473e1748d720bbf68a3e7f471" title="Return left&#45;hand side argument. " alt="" coords="373,5,577,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_binary_constraint.html#aec8d30b8684b3a2f5f715204999776a0" title="Return binary operator. " alt="" coords="373,71,577,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_binary_constraint.html#a61055c91c04bcbe4d03873044c6bf4b8" title="Return right&#45;hand side argument. " alt="" coords="373,136,577,177"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="391,202,559,229"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="625,195,793,236"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="841,195,1032,236"/>
+</map>

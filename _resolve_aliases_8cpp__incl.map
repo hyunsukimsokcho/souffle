@@ -1,0 +1,37 @@
+<map id="ast/transform/ResolveAliases.cpp" name="ast/transform/ResolveAliases.cpp">
+<area shape="rect" id="node2" href="$_resolve_aliases_8h.html" title="ast/transform/ResolveAliases.h" alt="" coords="72,528,296,555"/>
+<area shape="rect" id="node6" href="$_binary_constraint_ops_8h.html" title="BinaryConstraintOps.h" alt="" coords="8051,379,8219,405"/>
+<area shape="rect" id="node11" href="$_misc_util_8h.html" title="utility/MiscUtil.h" alt="" coords="3875,453,4003,480"/>
+<area shape="rect" id="node15" href="$_argument_8h.html" title="ast/Argument.h" alt="" coords="6712,453,6835,480"/>
+<area shape="rect" id="node16" href="$ast_2_node_8h.html" title="ast/Node.h" alt="" coords="5917,528,6009,555"/>
+<area shape="rect" id="node21" href="$_atom_8h.html" title="ast/Atom.h" alt="" coords="6068,379,6161,405"/>
+<area shape="rect" id="node22" href="$_literal_8h.html" title="ast/Literal.h" alt="" coords="6960,453,7059,480"/>
+<area shape="rect" id="node23" href="$ast_2_node_mapper_8h.html" title="ast/NodeMapper.h" alt="" coords="4077,453,4216,480"/>
+<area shape="rect" id="node29" href="$_stream_util_8h.html" title="utility/StreamUtil.h" alt="" coords="2144,528,2291,555"/>
+<area shape="rect" id="node31" href="$_binary_constraint_8h.html" title="ast/BinaryConstraint.h" alt="" coords="7375,304,7542,331"/>
+<area shape="rect" id="node33" href="$_clause_8h.html" title="ast/Clause.h" alt="" coords="3487,304,3590,331"/>
+<area shape="rect" id="node35" href="$_functor_8h.html" title="ast/Functor.h" alt="" coords="5191,304,5295,331"/>
+<area shape="rect" id="node37" href="$ast_2_program_8h.html" title="ast/Program.h" alt="" coords="2929,155,3042,181"/>
+<area shape="rect" id="node44" href="$ast_2_utils_8h.html" title="ast/Utils.h" alt="" coords="771,379,859,405"/>
+<area shape="rect" id="node45" href="$_record_init_8h.html" title="ast/RecordInit.h" alt="" coords="6541,304,6664,331"/>
+<area shape="rect" id="node46" href="$ast_2_translation_unit_8h.html" title="ast/TranslationUnit.h" alt="" coords="849,80,1005,107"/>
+<area shape="rect" id="node47" href="$_variable_8h.html" title="ast/Variable.h" alt="" coords="7851,379,7962,405"/>
+<area shape="rect" id="node48" href="$ast_2_visitor_8h.html" title="ast/Visitor.h" alt="" coords="6627,80,6725,107"/>
+<area shape="rect" id="node49" href="$_functional_util_8h.html" title="utility/FunctionalUtil.h" alt="" coords="7871,155,8036,181"/>
+<area shape="rect" id="node50" href="$_string_util_8h.html" title="utility/StringUtil.h" alt="" coords="8673,379,8810,405"/>
+<area shape="rect" id="node3" href="$ast_2transform_2_transformer_8h.html" title="ast/transform/Transformer.h" alt="" coords="93,603,296,629"/>
+<area shape="rect" id="node7" href="$_ram_types_8h.html" title="RamTypes.h" alt="" coords="8299,453,8400,480"/>
+<area shape="rect" id="node10" href="$_type_attribute_8h.html" title="TypeAttribute.h" alt="" coords="6566,453,6687,480"/>
+<area shape="rect" id="node17" href="$_src_location_8h.html" title="parser/SrcLocation.h" alt="" coords="5299,603,5453,629"/>
+<area shape="rect" id="node24" href="$_container_util_8h.html" title="utility/ContainerUtil.h" alt="" coords="4555,528,4717,555"/>
+<area shape="rect" id="node28" href="$_qualified_name_8h.html" title="ast/QualifiedName.h" alt="" coords="2397,453,2552,480"/>
+<area shape="rect" id="node32" href="$ast_2_constraint_8h.html" title="ast/Constraint.h" alt="" coords="7245,379,7371,405"/>
+<area shape="rect" id="node34" href="$_execution_plan_8h.html" title="ast/ExecutionPlan.h" alt="" coords="2717,379,2867,405"/>
+<area shape="rect" id="node36" href="$_term_8h.html" title="ast/Term.h" alt="" coords="5596,379,5687,405"/>
+<area shape="rect" id="node38" href="$_component_8h.html" title="ast/Component.h" alt="" coords="3977,229,4111,256"/>
+<area shape="rect" id="node39" href="$_component_init_8h.html" title="ast/ComponentInit.h" alt="" coords="4621,379,4776,405"/>
+<area shape="rect" id="node40" href="$ast_2_i_o_8h.html" title="ast/IO.h" alt="" coords="2251,379,2322,405"/>
+<area shape="rect" id="node41" href="$ast_2_relation_8h.html" title="ast/Relation.h" alt="" coords="4801,379,4911,405"/>
+<area shape="rect" id="node42" href="$_functor_declaration_8h.html" title="ast/FunctorDeclaration.h" alt="" coords="1790,379,1970,405"/>
+<area shape="rect" id="node43" href="$_pragma_8h.html" title="ast/Pragma.h" alt="" coords="2931,453,3039,480"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="ast/analysis/RelationDetailCache.h" name="ast/analysis/RelationDetailCache.h">
+<area shape="rect" id="node2" href="$_qualified_name_8h.html" title="ast/QualifiedName.h" alt="" coords="1087,244,1241,271"/>
+<area shape="rect" id="node14" href="$ast_2_relation_8h.html" title="ast/Relation.h" alt="" coords="1299,95,1410,121"/>
+<area shape="rect" id="node32" href="$ast_2analysis_2_analysis_8h.html" title="ast/analysis/Analysis.h" alt="" coords="767,319,937,345"/>
+<area shape="rect" id="node3" href="$_stream_util_8h.html" title="utility/StreamUtil.h" alt="" coords="1316,319,1463,345"/>
+<area shape="rect" id="node15" href="$_relation_tag_8h.html" title="RelationTag.h" alt="" coords="1417,169,1527,196"/>
+<area shape="rect" id="node22" href="$_attribute_8h.html" title="ast/Attribute.h" alt="" coords="840,169,955,196"/>
+<area shape="rect" id="node23" href="$ast_2_node_8h.html" title="ast/Node.h" alt="" coords="447,244,539,271"/>
+<area shape="rect" id="node24" href="$_src_location_8h.html" title="parser/SrcLocation.h" alt="" coords="93,319,248,345"/>
+<area shape="rect" id="node27" href="$ast_2_node_mapper_8h.html" title="ast/NodeMapper.h" alt="" coords="2327,244,2465,271"/>
+<area shape="rect" id="node28" href="$_container_util_8h.html" title="utility/ContainerUtil.h" alt="" coords="1740,319,1903,345"/>
+<area shape="rect" id="node16" href="$_misc_util_8h.html" title="utility/MiscUtil.h" alt="" coords="2039,244,2167,271"/>
+<area shape="rect" id="node17" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="1927,319,2030,345"/>
+</map>

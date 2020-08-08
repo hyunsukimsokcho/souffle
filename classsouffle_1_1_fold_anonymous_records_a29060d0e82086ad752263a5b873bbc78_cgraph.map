@@ -1,0 +1,22 @@
+<map id="souffle::FoldAnonymousRecords::clone" name="souffle::FoldAnonymousRecords::clone">
+<area shape="rect" id="node2" href="$classsouffle_1_1_fold_anonymous_records.html#ad2f0f2ec622c60ff12b06062d55226a8" title="Determine if the clause contains at least one binary constraint which can be expanded. " alt="" coords="560,97,789,139"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_fold_anonymous_records.html#a0cacb8e39397971113abc52f94888a01" title="Determine if binary constraint can be expanded. " alt="" coords="838,123,1067,164"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_fold_anonymous_records.html#a3f747db9244ffb0a304fc9a419afb99a" title="Expand constraint on records position&#45;wise. " alt="" coords="837,240,1068,281"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_fold_anonymous_records.html#a40cd7495a1d40599c7edddd94d483688" title="souffle::FoldAnonymousRecords\l::transform" alt="" coords="283,327,512,368"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_fold_anonymous_records.html#a42b3ce7f75bdc92eade96de8b04d9f22" title="Process a single clause. " alt="" coords="560,265,789,307"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#af3295dd83a588d612cf777e600beac4a" title="A utility to check generically whether a given element is contained in a given container. " alt="" coords="888,21,1017,47"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="869,71,1037,98"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="1138,5,1306,47"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1376,5,1567,47"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_binary_constraint.html#a72b9e10473e1748d720bbf68a3e7f471" title="Return left&#45;hand side argument. " alt="" coords="1120,123,1324,164"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#a6befeedfd76433e1bd51a1f6cd42afec" title="souffle::isEqConstraint" alt="" coords="1138,189,1306,215"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#a269a51553c86cbb637013907c879f478" title="Negated Constraint Operator Each operator requires a negated operator which is necessary for the expa..." alt="" coords="1116,71,1328,98"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ast_binary_constraint.html#a61055c91c04bcbe4d03873044c6bf4b8" title="Return right&#45;hand side argument. " alt="" coords="1120,240,1324,281"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ast_binary_constraint.html#aec8d30b8684b3a2f5f715204999776a0" title="Return binary operator. " alt="" coords="1120,305,1324,347"/>
+<area shape="rect" id="node14" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="1167,371,1277,398"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="Return the program. " alt="" coords="578,396,771,437"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ast_program.html#aa04b430e385f40c6fe2bf7ad2ca31bb3" title="Return clauses. " alt="" coords="599,331,750,372"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ast_program.html#a47233271cede560e430e364a4db95e56" title="Set clauses. " alt="" coords="599,461,750,503"/>
+<area shape="rect" id="node18" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1149,447,1295,474"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ast_clause.html#a1b5199df425ba5839383a75c5bb8a254" title="Obtains a copy of the internally maintained body literals. " alt="" coords="883,408,1022,449"/>
+</map>

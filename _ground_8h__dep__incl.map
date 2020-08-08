@@ -1,0 +1,8 @@
+<map id="ast/analysis/Ground.h" name="ast/analysis/Ground.h">
+<area shape="rect" id="node2" href="$_ground_8cpp.html" title="ast/analysis/Ground.cpp" alt="" coords="5,87,184,114"/>
+<area shape="rect" id="node3" href="$_grounded_terms_checker_8cpp.html" title="ast/transform/GroundedTerms\lChecker.cpp" alt="" coords="208,80,424,121"/>
+<area shape="rect" id="node4" href="$_materialize_aggregation_queries_8cpp.html" title="ast/transform/Materialize\lAggregationQueries.cpp" alt="" coords="448,80,635,121"/>
+<area shape="rect" id="node5" href="$_resolve_anonymous_record_aliases_8cpp.html" title="ast/transform/ResolveAnonymous\lRecordAliases.cpp" alt="" coords="659,80,901,121"/>
+<area shape="rect" id="node6" href="$_semantic_checker_8cpp.html" title="ast/transform/SemanticChecker.cpp" alt="" coords="926,87,1181,114"/>
+<area shape="rect" id="node7" href="$ast__utils__test_8cpp.html" title="tests/ast_utils_test.cpp" alt="" coords="1205,87,1377,114"/>
+</map>

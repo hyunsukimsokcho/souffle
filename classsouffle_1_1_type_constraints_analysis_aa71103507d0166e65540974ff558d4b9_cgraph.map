@@ -1,0 +1,31 @@
+<map id="souffle::TypeConstraintsAnalysis::visitNumericConstant" name="souffle::TypeConstraintsAnalysis::visitNumericConstant">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a785852c2fc649d79a481627605ffcf4f" title="Can a string be parsed as RamFloat. " alt="" coords="283,41,485,82"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a89f207449b2332bf06ab28993dda09b9" title="Can a string be parsed as RamSigned. " alt="" coords="283,106,485,147"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a3773094eb7aa42e20a209b40c9873aa4" title="Can a string be parsed as RamUnsigned. " alt="" coords="283,171,485,213"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_constant.html#a096e202ad0e1a58d59d501ca999c8ec2" title="Get string representation of Constant. " alt="" coords="307,237,461,278"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_type_environment.html#afb7bfce80a9e7dabd4c46cbac13c201d" title="souffle::TypeEnvironment\l::getConstantType" alt="" coords="291,302,477,343"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1_ast_numeric_constant.html#ad55654c8c9b125d7c3c510992c9565d8" title="souffle::AstNumericConstant\l::getType" alt="" coords="280,367,488,409"/>
+<area shape="rect" id="node30" href="$structsouffle_1_1_type_set.html#ad779397583248bcbf50b982e5314c2e2" title="Adds the given type to this set. " alt="" coords="299,433,469,460"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a42f50e44c16d45c78e4a37b005ac94c9" title="Converts a string to a RamFloat. " alt="" coords="542,5,749,32"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a2b9d2ca046f7468e341c7cb1c679ec8b" title="souffle::stord" alt="" coords="592,56,699,83"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#ad354d1210c639429c093f92ba2966a75" title="Converts a string to a RamSigned. " alt="" coords="536,116,755,143"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ab9fd86fe230c58e924db2cf47e1ba5e0" title="Determine if one string is a prefix of another. " alt="" coords="817,147,939,173"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#a084bbb9535fee35e4682c948ce88bddb" title="Converts a string to a RamUnsigned. " alt="" coords="547,170,744,211"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#a0df5320dfcc5fe6ad9bbda0edc5876bc" title="Returns the type with the given name in the program. " alt="" coords="583,283,708,309"/>
+<area shape="rect" id="node16" href="$namespacesouffle.html#a315141918c39611929a694840f046fb5" title="souffle::fatal" alt="" coords="593,337,697,364"/>
+<area shape="rect" id="node13" href="$namespacesouffle.html#a62f80c157a6a365d78a43592732a8efa" title="Returns the first element in a container that satisfies a given predicate, nullptr otherwise..." alt="" coords="826,224,930,251"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ast_program.html#a0eca120e93df25229f5a39e6895137c2" title="Return types. " alt="" coords="803,275,953,317"/>
+<area shape="rect" id="node15" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1003,248,1150,275"/>
+<area shape="rect" id="node17" href="$namespacetinyformat.html#adc3e74768f0e2204f9f9a726fc07ec61" title="tinyformat::format" alt="" coords="807,375,949,401"/>
+<area shape="rect" id="node18" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="Format list of arguments to the stream according to the given format string. " alt="" coords="1001,400,1152,427"/>
+<area shape="rect" id="node26" href="$namespacetinyformat.html#ab7b10973ec89e6601353675a85f99d61" title="tinyformat::makeFormatList" alt="" coords="1200,299,1405,325"/>
+<area shape="rect" id="node19" href="$namespacetinyformat_1_1detail.html#a9fe547bc617c38498e58c12cce507bec" title="tinyformat::detail\l::formatImpl" alt="" coords="1235,401,1371,442"/>
+<area shape="rect" id="node27" href="$namespacetinyformat.html#a970fd8292e14eb74ba55bafb41017016" title="tinyformat::printf" alt="" coords="1235,349,1370,376"/>
+<area shape="rect" id="node28" href="$namespacetinyformat.html#a97775445fea05ffaaa0690ab3bb1a920" title="tinyformat::printfln" alt="" coords="1230,467,1375,493"/>
+<area shape="rect" id="node20" href="$namespacetinyformat_1_1detail.html#ad3d636b9f85202b515c8940b7fcb62a6" title="tinyformat::detail\l::printFormatStringLiteral" alt="" coords="1455,335,1640,377"/>
+<area shape="rect" id="node21" href="$namespacetinyformat_1_1detail.html#ab4493739cbfe66bc79867f13f1fdf0db" title="tinyformat::detail\l::streamStateFromFormat" alt="" coords="1453,401,1641,442"/>
+<area shape="rect" id="node25" href="$classtinyformat_1_1detail_1_1_format_arg.html#acbf435711bbe4a4da7fc81758d7108a9" title="tinyformat::detail\l::FormatArg::format" alt="" coords="1472,466,1623,507"/>
+<area shape="rect" id="node22" href="$namespacetinyformat_1_1detail.html#a67285e0adb9f4164f9fc30a3eb11c771" title="tinyformat::detail\l::parseIntAndAdvance" alt="" coords="1916,371,2080,413"/>
+<area shape="rect" id="node23" href="$namespacetinyformat_1_1detail.html#ae1e94cbdd9e7cf26f17856a1792664e1" title="tinyformat::detail\l::parseWidthOrPrecision" alt="" coords="1689,430,1868,471"/>
+<area shape="rect" id="node24" href="$classtinyformat_1_1detail_1_1_format_arg.html#a91b69f66ce9dc8ca2914dce8985d7a1a" title="tinyformat::detail\l::FormatArg::toInt" alt="" coords="1930,437,2066,478"/>
+</map>

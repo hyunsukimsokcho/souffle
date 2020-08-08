@@ -1,0 +1,8 @@
+<map id="souffle::MinimiseProgramTransformer::areBijectivelyEquivalent" name="souffle::MinimiseProgramTransformer::areBijectivelyEquivalent">
+<area shape="rect" id="node2" href="$classsouffle_1_1_minimise_program_transformer.html#afd907e701f86c785711396fc4d07d83b" title="souffle::MinimiseProgram\lTransformer::existsValidPermutation" alt="" coords="320,70,579,111"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_minimise_program_transformer_1_1_normalised_clause_repr.html#a1c51bf91ca46130cd4be3c6fc1bc975c" title="souffle::MinimiseProgram\lTransformer::NormalisedClause\lRepr::getElements" alt="" coords="905,5,1132,61"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_minimise_program_transformer_1_1_normalised_clause_repr.html#a1a44f1ca5e269da8448896136de64acd" title="souffle::MinimiseProgram\lTransformer::NormalisedClause\lRepr::getConstants" alt="" coords="905,87,1132,143"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_minimise_program_transformer_1_1_normalised_clause_repr.html#a6d9ad810c382155445a670344ce6e136" title="souffle::MinimiseProgram\lTransformer::NormalisedClause\lRepr::getVariables" alt="" coords="905,168,1132,224"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_minimise_program_transformer_1_1_normalised_clause_repr.html#a2d3bbbd131683e9bfe9f2387831f575d" title="souffle::MinimiseProgram\lTransformer::NormalisedClause\lRepr::isFullyNormalised" alt="" coords="336,237,563,293"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_minimise_program_transformer.html#a84a1b20f4ab1e2e63618323f87f737d3" title="souffle::MinimiseProgram\lTransformer::isValidPermutation" alt="" coords="627,70,857,111"/>
+</map>

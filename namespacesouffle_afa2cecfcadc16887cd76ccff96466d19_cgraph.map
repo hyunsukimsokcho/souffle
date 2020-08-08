@@ -1,0 +1,13 @@
+<map id="souffle::reorderClauseWithSips" name="souffle::reorderClauseWithSips">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a0654c08409f66fdca60d0cc668de83a5" title="Finds the new ordering of a vector of atoms after the given SIPS is applied. " alt="" coords="289,43,426,69"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_clause.html#aa943423c45971e70c837da5b88c8fc04" title="Obtains the execution plan associated to this clause or null if there is none. " alt="" coords="794,319,937,361"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#ae77f3374134c13b638bf7644fcebb5ef" title="Reorders the atoms of a clause to be in the given order. " alt="" coords="276,159,439,185"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_atom.html#a9c726c597d7921245dd97dcc72b8aeed" title="Return arguments. " alt="" coords="487,5,717,32"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="792,35,939,61"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_clause.html#a633dd9d64dd06d315d44c6d5cba17e1a" title="Add a literal to the body of the clause. " alt="" coords="533,122,671,163"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="811,151,920,177"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#a6aa6d61f4a71ddbb2458d23ce24dbced" title="Returns a clause which contains head of the given clause. " alt="" coords="531,239,673,265"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ast_clause.html#a1b5199df425ba5839383a75c5bb8a254" title="Obtains a copy of the internally maintained body literals. " alt="" coords="533,57,671,98"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="796,202,935,243"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_node.html#a545cacc1afc26c19044a6822b4ca84ae" title="Return source location of the AstNode. " alt="" coords="765,268,965,295"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="souffle::ResolveAnonymousRecordAliases::transform" name="souffle::ResolveAnonymousRecordAliases::transform">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_program.html#aa04b430e385f40c6fe2bf7ad2ca31bb3" title="Return clauses. " alt="" coords="639,12,789,53"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="Return the program. " alt="" coords="302,71,495,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_resolve_anonymous_record_aliases.html#a42162e4e851b58f3638521aa4dab81cb" title="Use mapping found by findVariablesRecordMapping to substitute a records for each variable that operat..." alt="" coords="261,201,537,243"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1_resolve_anonymous_record_aliases.html#a49c163979cb2e12e1d48876836f5ce5f" title="For unnamed variables, replace each equation _ op record with true. " alt="" coords="256,136,541,177"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1419,146,1565,173"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_clause.html#ab7a5b630d02cd69873aab066c2bd9c46" title="Apply the mapper to all child nodes. " alt="" coords="645,140,783,181"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="659,209,769,235"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_resolve_anonymous_record_aliases.html#a6413abbf44e19d037429dc08c45fdad9" title="For each variable equal to some anonymous record, assign a value of that record. " alt="" coords="589,409,839,465"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="934,147,1037,174"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_translation_unit.html#af396e44c83e5ad410c9ec3e2f6b91758" title="get analysis: analysis is generated on the fly if not present " alt="" coords="1151,784,1344,825"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ast_clause.html#a1b5199df425ba5839383a75c5bb8a254" title="Obtains a copy of the internally maintained body literals. " alt="" coords="916,445,1055,487"/>
+<area shape="rect" id="node14" href="$namespacesouffle.html#a007a45afc198f8e8bdda35c50da5f26b" title="Analyse the given clause and computes for each contained argument whether it is a grounded value or n..." alt="" coords="887,394,1084,421"/>
+<area shape="rect" id="node25" href="$namespacesouffle.html#a6befeedfd76433e1bd51a1f6cd42afec" title="souffle::isEqConstraint" alt="" coords="1163,70,1331,97"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1_ast_variable.html#a2b73a95c7b59624d956dee0ed4e13884" title="Return variable name. " alt="" coords="911,511,1059,552"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_debug_report.html#ac0feb8780d23c2ca5d7700e4857b10c4" title="souffle::DebugReport\l::addSection" alt="" coords="1413,755,1571,796"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="1411,821,1573,847"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ast_term.html#a5bf9145afa6b327c21e3393123c292c3" title="Get arguments. " alt="" coords="1134,121,1361,147"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ast_atom.html#a9c726c597d7921245dd97dcc72b8aeed" title="Return arguments. " alt="" coords="1132,171,1363,198"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ast_negation.html#a587c8d4fdcfc28f128cc3ff2cf97895c" title="Get negated atom. " alt="" coords="1170,667,1325,708"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="1178,223,1317,264"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_ast_binary_constraint.html#a72b9e10473e1748d720bbf68a3e7f471" title="Return left&#45;hand side argument. " alt="" coords="1145,288,1349,329"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ast_binary_constraint.html#aec8d30b8684b3a2f5f715204999776a0" title="Return binary operator. " alt="" coords="1145,353,1349,395"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_relation_detail_cache_analysis.html#a4968c8f94ff2e00fe01eb2389a999164" title="souffle::RelationDetailCache\lAnalysis::getRelation" alt="" coords="1144,419,1351,460"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_ast_binary_constraint.html#a61055c91c04bcbe4d03873044c6bf4b8" title="Return right&#45;hand side argument. " alt="" coords="1145,484,1349,525"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_ast_type_cast.html#a4fe729dc92cd0e38102249123acbc317" title="Return value. " alt="" coords="1170,549,1325,591"/>
+<area shape="rect" id="node24" href="$namespacetestutil.html#a033ee69d872bfbb8267de21ef642a357" title="testutil::ignore" alt="" coords="1189,615,1306,642"/>
+</map>

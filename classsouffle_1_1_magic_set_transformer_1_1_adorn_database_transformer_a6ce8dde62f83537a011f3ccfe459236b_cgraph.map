@@ -1,0 +1,12 @@
+<map id="souffle::MagicSetTransformer::AdornDatabaseTransformer::adornClause" name="souffle::MagicSetTransformer::AdornDatabaseTransformer::adornClause">
+<area shape="rect" id="node2" href="$classsouffle_1_1_magic_set_transformer_1_1_adorn_database_transformer_1_1_binding_store.html#ae63363ee780f8bc671d8e5f371d951e6" title="souffle::MagicSetTransformer\l::AdornDatabaseTransformer\l::BindingStore::bindVariable" alt="" coords="287,5,497,61"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="337,85,447,112"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#af3295dd83a588d612cf777e600beac4a" title="A utility to check generically whether a given element is contained in a given container. " alt="" coords="577,377,706,404"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_atom.html#a9c726c597d7921245dd97dcc72b8aeed" title="Return arguments. " alt="" coords="277,136,507,163"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_clause.html#a1b5199df425ba5839383a75c5bb8a254" title="Obtains a copy of the internally maintained body literals. " alt="" coords="323,187,461,229"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_clause.html#aa943423c45971e70c837da5b88c8fc04" title="Obtains the execution plan associated to this clause or null if there is none. " alt="" coords="321,305,463,346"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="323,370,461,411"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_atom.html#a2fcd569fa7d8ed8c0c2dfd0d1c362e50" title="Return qualified name. " alt="" coords="264,436,520,463"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_magic_set_transformer_1_1_adorn_database_transformer_1_1_binding_store.html#a65e34d384093fded0af014c095179bed" title="souffle::MagicSetTransformer\l::AdornDatabaseTransformer\l::BindingStore::isBound" alt="" coords="287,487,497,543"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="568,165,715,192"/>
+</map>

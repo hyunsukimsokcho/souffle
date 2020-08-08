@@ -1,0 +1,15 @@
+<map id="ExplainProvenanceImpl.h" name="ExplainProvenanceImpl.h">
+<area shape="rect" id="node2" href="$_binary_constraint_ops_8h.html" title="BinaryConstraintOps.h" alt="" coords="868,229,1036,256"/>
+<area shape="rect" id="node3" href="$_ram_types_8h.html" title="RamTypes.h" alt="" coords="296,379,397,405"/>
+<area shape="rect" id="node10" href="$_misc_util_8h.html" title="utility/MiscUtil.h" alt="" coords="2209,304,2337,331"/>
+<area shape="rect" id="node21" href="$_explain_provenance_8h.html" title="ExplainProvenance.h" alt="" coords="2165,80,2323,107"/>
+<area shape="rect" id="node22" href="$_souffle_interface_8h.html" title="SouffleInterface.h" alt="" coords="2787,155,2925,181"/>
+<area shape="rect" id="node23" href="$_symbol_table_8h.html" title="SymbolTable.h" alt="" coords="2545,229,2663,256"/>
+<area shape="rect" id="node26" href="$_stream_util_8h.html" title="utility/StreamUtil.h" alt="" coords="2936,304,3083,331"/>
+<area shape="rect" id="node35" href="$_string_util_8h.html" title="utility/StringUtil.h" alt="" coords="599,304,737,331"/>
+<area shape="rect" id="node41" href="$_explain_tree_8h.html" title="ExplainTree.h" alt="" coords="1373,229,1483,256"/>
+<area shape="rect" id="node42" href="$_container_util_8h.html" title="utility/ContainerUtil.h" alt="" coords="1617,304,1780,331"/>
+<area shape="rect" id="node9" href="$_type_attribute_8h.html" title="TypeAttribute.h" alt="" coords="813,304,934,331"/>
+<area shape="rect" id="node11" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="2230,379,2333,405"/>
+<area shape="rect" id="node24" href="$_parallel_util_8h.html" title="utility/ParallelUtil.h" alt="" coords="3259,304,3405,331"/>
+</map>

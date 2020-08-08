@@ -1,0 +1,9 @@
+<map id="ast/RecordType.h" name="ast/RecordType.h">
+<area shape="rect" id="node2" href="$_attribute_8h.html" title="ast/Attribute.h" alt="" coords="199,80,314,107"/>
+<area shape="rect" id="node3" href="$ast_2_node_8h.html" title="ast/Node.h" alt="" coords="420,155,512,181"/>
+<area shape="rect" id="node4" href="$_src_location_8h.html" title="parser/SrcLocation.h" alt="" coords="65,229,219,256"/>
+<area shape="rect" id="node11" href="$_qualified_name_8h.html" title="ast/QualifiedName.h" alt="" coords="790,155,945,181"/>
+<area shape="rect" id="node12" href="$_stream_util_8h.html" title="utility/StreamUtil.h" alt="" coords="1041,229,1187,256"/>
+<area shape="rect" id="node19" href="$_type_8h.html" title="ast/Type.h" alt="" coords="607,80,695,107"/>
+<area shape="rect" id="node20" href="$_container_util_8h.html" title="utility/ContainerUtil.h" alt="" coords="1262,229,1425,256"/>
+</map>

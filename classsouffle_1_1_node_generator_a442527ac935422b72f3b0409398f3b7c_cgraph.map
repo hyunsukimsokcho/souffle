@@ -1,0 +1,35 @@
+<map id="souffle::NodeGenerator::generateTree" name="souffle::NodeGenerator::generateTree">
+<area shape="rect" id="node2" href="$classsouffle_1_1_node_generator.html#a39bf7e146cd0157196b2a35417b83374" title="Return operation index id from the result of indexAnalysis. " alt="" coords="249,201,423,243"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_node_generator.html#ae5998d60cfa261b3365b92f142b80d10" title="Encode and return the View id of an operation. " alt="" coords="249,376,423,417"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_node_generator.html#a5f7ff288a88c4bc375d7e131441d27eb" title="Reset view allocation system, since view&#39;s life time is within each query. " alt="" coords="249,441,423,483"/>
+<area shape="rect" id="node18" href="$structsouffle_1_1_ram_visitor.html#a2313337e10a8cad47d87dbc46f9efac9" title="The main entry for a visit process conducting the dispatching of a visit to the various sub&#45;types of ..." alt="" coords="227,507,445,563"/>
+<area shape="rect" id="node32" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="252,587,420,614"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_search_signature.html#a949ec42a09c4f8aafd7c2286224c5cce" title="souffle::SearchSignature\l::arity" alt="" coords="757,201,937,243"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_search_signature.html#a09ea82762595da52db4d0bfc5960e448" title="souffle::SearchSignature\l::empty" alt="" coords="501,5,681,47"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_search_signature.html#add3b77aefc1bcd93923f42fdc6403973" title="souffle::SearchSignature\l::getFullSearchSignature" alt="" coords="501,201,681,243"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ram_index_analysis.html#a475526dcb15efeaa12e8b561494d74e1" title="get the minimal index cover for a relation " alt="" coords="493,71,688,112"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_min_index_selection.html#a8c88dac1f007437a35f70d7dbb145ca7" title="Get index for a search " alt="" coords="494,136,687,177"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ram_index_analysis.html#a9559361184637c5dc61154302b142e30" title="Get index signature for an Ram IndexOperation operation " alt="" coords="493,319,688,360"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="795,143,898,170"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ram_relation_operation.html#a499c5f7c9562a0cfe16ee3668e19ca88" title="Get search relation. " alt="" coords="736,384,957,425"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ram_relation.html#aa2d201d636a8b01283b5996a56d7abb8" title="Get arity of relation. " alt="" coords="768,449,925,491"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ram_index_operation.html#ace310bad18356b42d1e7372b87618fbc" title="Get range pattern. " alt="" coords="745,267,949,308"/>
+<area shape="rect" id="node14" href="$namespacesouffle.html#aaaed06bbcb6b8efcfd2474b1c5d81aa3" title="Determines if an expression represents an undefined value. " alt="" coords="751,333,942,359"/>
+<area shape="rect" id="node13" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1007,274,1154,301"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_node_generator.html#ab2d2abaafc36c12c125d50c75237383d" title="Get a valid view id for encoding. " alt="" coords="504,384,677,425"/>
+<area shape="rect" id="node19" href="$namespacesouffle.html#a315141918c39611929a694840f046fb5" title="souffle::fatal" alt="" coords="539,522,643,549"/>
+<area shape="rect" id="node20" href="$namespacetinyformat.html#adc3e74768f0e2204f9f9a726fc07ec61" title="tinyformat::format" alt="" coords="775,522,918,549"/>
+<area shape="rect" id="node21" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="Format list of arguments to the stream according to the given format string. " alt="" coords="1005,522,1156,549"/>
+<area shape="rect" id="node29" href="$namespacetinyformat.html#ab7b10973ec89e6601353675a85f99d61" title="tinyformat::makeFormatList" alt="" coords="1204,421,1409,447"/>
+<area shape="rect" id="node22" href="$namespacetinyformat_1_1detail.html#a9fe547bc617c38498e58c12cce507bec" title="tinyformat::detail\l::formatImpl" alt="" coords="1239,523,1375,564"/>
+<area shape="rect" id="node30" href="$namespacetinyformat.html#a970fd8292e14eb74ba55bafb41017016" title="tinyformat::printf" alt="" coords="1239,471,1374,498"/>
+<area shape="rect" id="node31" href="$namespacetinyformat.html#a97775445fea05ffaaa0690ab3bb1a920" title="tinyformat::printfln" alt="" coords="1234,589,1379,615"/>
+<area shape="rect" id="node23" href="$namespacetinyformat_1_1detail.html#ad3d636b9f85202b515c8940b7fcb62a6" title="tinyformat::detail\l::printFormatStringLiteral" alt="" coords="1459,457,1644,499"/>
+<area shape="rect" id="node24" href="$namespacetinyformat_1_1detail.html#ab4493739cbfe66bc79867f13f1fdf0db" title="tinyformat::detail\l::streamStateFromFormat" alt="" coords="1457,523,1645,564"/>
+<area shape="rect" id="node28" href="$classtinyformat_1_1detail_1_1_format_arg.html#acbf435711bbe4a4da7fc81758d7108a9" title="tinyformat::detail\l::FormatArg::format" alt="" coords="1476,588,1627,629"/>
+<area shape="rect" id="node25" href="$namespacetinyformat_1_1detail.html#a67285e0adb9f4164f9fc30a3eb11c771" title="tinyformat::detail\l::parseIntAndAdvance" alt="" coords="1920,493,2084,535"/>
+<area shape="rect" id="node26" href="$namespacetinyformat_1_1detail.html#ae1e94cbdd9e7cf26f17856a1792664e1" title="tinyformat::detail\l::parseWidthOrPrecision" alt="" coords="1693,552,1872,593"/>
+<area shape="rect" id="node27" href="$classtinyformat_1_1detail_1_1_format_arg.html#a91b69f66ce9dc8ca2914dce8985d7a1a" title="tinyformat::detail\l::FormatArg::toInt" alt="" coords="1934,559,2070,600"/>
+<area shape="rect" id="node33" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="507,580,675,621"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="751,580,942,621"/>
+</map>

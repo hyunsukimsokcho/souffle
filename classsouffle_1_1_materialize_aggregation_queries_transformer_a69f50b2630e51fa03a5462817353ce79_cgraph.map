@@ -1,0 +1,51 @@
+<map id="souffle::MaterializeAggregationQueriesTransformer::transform" name="souffle::MaterializeAggregationQueriesTransformer::transform">
+<area shape="rect" id="node2" href="$classsouffle_1_1_materialize_aggregation_queries_transformer.html#a4cabe1d2119872afd7b13fdb18a578fa" title="Creates artificial relations for bodies of aggregation functions consisting of more than a single ato..." alt="" coords="279,781,589,837"/>
+<area shape="rect" id="node44" href="$classsouffle_1_1_materialize_aggregation_queries_transformer.html#ac38dc83c42d37b8b12c45c6c23bdcab3" title="A test determining whether the body of a given aggregation needs to be &#39;outlined&#39; into an independent..." alt="" coords="637,488,915,544"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_program.html#a36a9cf206241d64c1dabe532026fc3ae" title="Add a clause. " alt="" coords="1015,281,1165,322"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_program.html#a03ebc7b31cced8250c79e3c7815be8f0" title="souffle::AstProgram\l::addRelation" alt="" coords="1015,566,1165,607"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#ada252aa15afbf7d703a11b000dfd4048" title="Returns the relation with the given name in the program. " alt="" coords="1275,573,1423,600"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_type_analysis.html#a353dd3e674e73c89e7d2c7434f03fc3e" title="Analyse the given clause and computes for each contained argument a set of potential types..." alt="" coords="697,1109,855,1150"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_argument.html#a5f13087d708e0117ec3a913c7ffc3ad8" title="Create clone. " alt="" coords="697,1174,855,1215"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="1035,347,1145,373"/>
+<area shape="rect" id="node13" href="$namespacesouffle_1_1test.html#a10453085bc4f71f32dcda443d4b3c446" title="souffle::test::count" alt="" coords="705,1240,847,1267"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ast_translation_unit.html#af396e44c83e5ad410c9ec3e2f6b91758" title="get analysis: analysis is generated on the fly if not present " alt="" coords="993,865,1187,906"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ast_aggregator.html#a52adcf6071c53f92114ac3f45307ca18" title="Return body literals. " alt="" coords="1007,799,1173,841"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_ast_clause.html#a1b5199df425ba5839383a75c5bb8a254" title="Obtains a copy of the internally maintained body literals. " alt="" coords="1527,915,1666,957"/>
+<area shape="rect" id="node19" href="$namespacesouffle.html#a007a45afc198f8e8bdda35c50da5f26b" title="Analyse the given clause and computes for each contained argument whether it is a grounded value or n..." alt="" coords="677,1057,875,1084"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1_ast_variable.html#a2b73a95c7b59624d956dee0ed4e13884" title="Return variable name. " alt="" coords="1016,631,1164,673"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1_ast_aggregator.html#adf64f4a66f682da44e78fd000743e1ea" title="Return aggregate operator. " alt="" coords="693,1291,859,1333"/>
+<area shape="rect" id="node33" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="Return the program. " alt="" coords="679,1357,873,1398"/>
+<area shape="rect" id="node34" href="$namespacesouffle.html#acb9889c6dd0b6c742bea931d7f4ab227" title="Check if the type is of a kind corresponding to the TypeAttribute. " alt="" coords="711,200,841,227"/>
+<area shape="rect" id="node43" href="$namespacesouffle.html#a67fd524841b8a60b1bb50b18dc868c7c" title="Creates a node mapper based on a corresponding lambda expression. " alt="" coords="660,1423,892,1449"/>
+<area shape="rect" id="node47" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="1006,748,1174,775"/>
+<area shape="rect" id="node50" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="713,619,839,645"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a62f80c157a6a365d78a43592732a8efa" title="Returns the first element in a container that satisfies a given predicate, nullptr otherwise..." alt="" coords="1545,543,1649,569"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_program.html#a71fb3c28c3a105637c22cbe6a9fb63ef" title="Return relations. " alt="" coords="1521,597,1672,638"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1760,923,1907,949"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_constraint_analysis.html#af22129c80f7cc902684a64c94887f3dd" title="Runs this constraint analysis on the given clause. " alt="" coords="981,1642,1199,1683"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_debug_report.html#ac0feb8780d23c2ca5d7700e4857b10c4" title="souffle::DebugReport\l::addSection" alt="" coords="1270,814,1429,855"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="1268,880,1431,907"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ast_term.html#a5bf9145afa6b327c21e3393123c292c3" title="Get arguments. " alt="" coords="1483,981,1710,1008"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ast_atom.html#a9c726c597d7921245dd97dcc72b8aeed" title="Return arguments. " alt="" coords="1481,1032,1712,1059"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_ast_negation.html#a587c8d4fdcfc28f128cc3ff2cf97895c" title="Get negated atom. " alt="" coords="1013,1185,1167,1226"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="1021,1250,1159,1291"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1_ast_binary_constraint.html#a72b9e10473e1748d720bbf68a3e7f471" title="Return left&#45;hand side argument. " alt="" coords="988,1315,1192,1357"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_ast_binary_constraint.html#aec8d30b8684b3a2f5f715204999776a0" title="Return binary operator. " alt="" coords="988,1381,1192,1422"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1_relation_detail_cache_analysis.html#a4968c8f94ff2e00fe01eb2389a999164" title="souffle::RelationDetailCache\lAnalysis::getRelation" alt="" coords="987,1446,1193,1487"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1_ast_binary_constraint.html#a61055c91c04bcbe4d03873044c6bf4b8" title="Return right&#45;hand side argument. " alt="" coords="988,1511,1192,1553"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_ast_type_cast.html#a4fe729dc92cd0e38102249123acbc317" title="Return value. " alt="" coords="1013,1577,1167,1618"/>
+<area shape="rect" id="node29" href="$namespacetestutil.html#a033ee69d872bfbb8267de21ef642a357" title="testutil::ignore" alt="" coords="1031,1083,1149,1109"/>
+<area shape="rect" id="node30" href="$namespacesouffle.html#a6befeedfd76433e1bd51a1f6cd42afec" title="souffle::isEqConstraint" alt="" coords="1006,1133,1174,1160"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1_type_environment.html#afb7bfce80a9e7dabd4c46cbac13c201d" title="souffle::TypeEnvironment\l::getConstantType" alt="" coords="997,163,1183,205"/>
+<area shape="rect" id="node38" href="$classsouffle_1_1_type.html#a2bc9172d0ce6390a7960b24b16172c79" title="souffle::Type::getTypeEnvironment" alt="" coords="967,229,1213,256"/>
+<area shape="rect" id="node39" href="$namespacesouffle.html#a56f7e0bb6f22aecf27c01b2365d4316f" title="Determines whether the given type is a sub&#45;type of the given root type. " alt="" coords="1011,80,1169,107"/>
+<area shape="rect" id="node36" href="$namespacesouffle.html#a0df5320dfcc5fe6ad9bbda0edc5876bc" title="Returns the type with the given name in the program. " alt="" coords="1287,372,1412,399"/>
+<area shape="rect" id="node37" href="$namespacesouffle.html#a315141918c39611929a694840f046fb5" title="souffle::fatal" alt="" coords="1297,188,1401,215"/>
+<area shape="rect" id="node40" href="$namespacesouffle.html#a14b5f9eb9ec09c40e558b242e75de872" title="A generic test checking whether all elements within a container satisfy a certain predicate..." alt="" coords="1294,5,1405,32"/>
+<area shape="rect" id="node41" href="$classsouffle_1_1_subset_type.html#ac5c52e503cbce42370d6ada3f050773d" title="souffle::SubsetType\l::getBaseType" alt="" coords="1275,57,1423,98"/>
+<area shape="rect" id="node42" href="$classsouffle_1_1_union_type.html#a0175bce933a70c1d3691114860ac17fc" title="souffle::UnionType\l::getElementTypes" alt="" coords="1278,122,1421,163"/>
+<area shape="rect" id="node45" href="$classsouffle_1_1_ast_aggregator.html#a874a533a8f14a7fae987dd4e9d3550d7" title="Set body. " alt="" coords="1007,398,1173,439"/>
+<area shape="rect" id="node46" href="$classsouffle_1_1_ast_atom.html#acfca6d3ea5ccbd46a629d54c145206bb" title="Set qualified name. " alt="" coords="963,464,1217,491"/>
+<area shape="rect" id="node48" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="1265,697,1433,738"/>
+<area shape="rect" id="node49" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1501,697,1692,738"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="souffle::RemoveEmptyRelationsTransformer::transform" name="souffle::RemoveEmptyRelationsTransformer::transform">
+<area shape="rect" id="node2" href="$classsouffle_1_1_remove_empty_relations_transformer.html#a3653c142d5cf2a35974ed5e2988a69a9" title="Eliminate all empty relations (and their uses) in the given program. " alt="" coords="283,332,543,373"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_remove_empty_relations_transformer.html#abadf969e15051a1d0966c7795c8cf961" title="Eliminate rules that contain empty relations and/or rewrite them. " alt="" coords="591,517,876,559"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_translation_unit.html#af396e44c83e5ad410c9ec3e2f6b91758" title="get analysis: analysis is generated on the fly if not present " alt="" coords="637,89,830,131"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#ab18cbb3adc2ab328de0db30a3fddf7e0" title="Returns the relation referenced by the given atom. " alt="" coords="947,365,1129,391"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_program.html#a71fb3c28c3a105637c22cbe6a9fb63ef" title="Return relations. " alt="" coords="1524,277,1675,319"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ast_aggregator.html#a52adcf6071c53f92114ac3f45307ca18" title="Return body literals. " alt="" coords="650,5,817,47"/>
+<area shape="rect" id="node13" href="$namespacesouffle.html#a4d9e53888640a9abfd7ea7c43715152a" title="Returns a vector of clauses in the program describing the relation with the given name..." alt="" coords="1255,225,1401,251"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="Return the program. " alt="" coords="941,416,1135,457"/>
+<area shape="rect" id="node24" href="$namespacesouffle.html#a307bae61c898715dccb57c9732335000" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="954,482,1122,509"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1_ast_program.html#a8bd39fbf78f6e4b5347bab4c90486bfd" title="Remove relation. " alt="" coords="658,155,809,196"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_debug_report.html#ac0feb8780d23c2ca5d7700e4857b10c4" title="souffle::DebugReport\l::addSection" alt="" coords="959,45,1117,87"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="957,111,1119,138"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_atom.html#a2fcd569fa7d8ed8c0c2dfd0d1c362e50" title="Return qualified name. " alt="" coords="1200,453,1456,479"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#ada252aa15afbf7d703a11b000dfd4048" title="Returns the relation with the given name in the program. " alt="" coords="1254,402,1402,429"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#a62f80c157a6a365d78a43592732a8efa" title="Returns the first element in a container that satisfies a given predicate, nullptr otherwise..." alt="" coords="1547,402,1651,429"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1743,150,1889,177"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ast_program.html#aa04b430e385f40c6fe2bf7ad2ca31bb3" title="Return clauses. " alt="" coords="1524,193,1675,235"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ast_program.html#a36a9cf206241d64c1dabe532026fc3ae" title="Add a clause. " alt="" coords="963,685,1113,727"/>
+<area shape="rect" id="node18" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="1273,575,1383,602"/>
+<area shape="rect" id="node19" href="$namespacesouffle.html#a6aa6d61f4a71ddbb2458d23ce24dbced" title="Returns a clause which contains head of the given clause. " alt="" coords="967,634,1109,661"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_ast_program.html#a0bde67af569811987d8e21929163d132" title="Remove a clause. " alt="" coords="1253,336,1403,377"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ast_clause.html#aa943423c45971e70c837da5b88c8fc04" title="Obtains the execution plan associated to this clause or null if there is none. " alt="" coords="1257,627,1399,668"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ast_clause.html#a5a29a4f9ba5d0e4aea869cf71a6efbbf" title="Return the atom that represents the head of the clause. " alt="" coords="1259,692,1397,733"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_ast_node.html#a545cacc1afc26c19044a6822b4ca84ae" title="Return source location of the AstNode. " alt="" coords="1228,758,1428,785"/>
+<area shape="rect" id="node25" href="$namespacesouffle.html#a030c754119d60ea72cff8af5b62710e6" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="1244,504,1412,545"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1_ast_node.html#a07dd728cde93a2b1d72d987cf54cbd8e" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1504,504,1695,545"/>
+<area shape="rect" id="node28" href="$namespacesouffle.html#a503032b9def6267059072aea913780bc" title="Removes the set of clauses with the given relation name. " alt="" coords="924,263,1152,290"/>
+<area shape="rect" id="node29" href="$namespacesouffle.html#a3ba7ed6638254bcc59869e1d88795b70" title="Removes the set of IOs with the given relation name. " alt="" coords="939,162,1137,189"/>
+<area shape="rect" id="node30" href="$namespacesouffle.html#ab071e2356802d2c83ede10833a2aa413" title="souffle::getIOs" alt="" coords="1270,107,1386,134"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1_ast_program.html#a79383827fb9e35c1bdc07f3503ba3f97" title="Remove an I/O directive. " alt="" coords="1253,159,1403,200"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1_ast_program.html#a30121078c8c847e227f351e1e495f677" title="Retrun I/O directives. " alt="" coords="1524,113,1675,155"/>
+</map>
