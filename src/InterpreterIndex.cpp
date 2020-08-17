@@ -667,6 +667,14 @@ std::unique_ptr<InterpreterIndex> createBTreeIndex(const Order& order) {
             return std::make_unique<BTreeIndex<19>>(order);
         case 20:
             return std::make_unique<BTreeIndex<20>>(order);
+        case 21:
+            return std::make_unique<BTreeIndex<21>>(order);
+        case 22:
+            return std::make_unique<BTreeIndex<22>>(order);
+        case 23:
+            return std::make_unique<BTreeIndex<23>>(order);
+        case 24:
+            return std::make_unique<BTreeIndex<24>>(order);
     }
     assert(false && "Requested arity not yet supported. Feel free to add it.");
     return {};
